@@ -1,0 +1,30 @@
+.caixa{
+
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 30px;
+
+
+}
+
+
+.exibirResposta{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+
+
+.mensagens-erro{
+
+display: none;
+
+}
+
+.exibirErro{
+
+    display: inline;
+
+}
